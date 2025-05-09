@@ -27,7 +27,7 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts data ab
    git clone https://github.com/yourusername/largest-banks-etl.git
    cd largest-banks-etl
 
-## Project Structure
+## File Structure
 ```markdown
 
 ```text
