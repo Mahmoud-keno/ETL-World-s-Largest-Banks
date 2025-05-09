@@ -30,7 +30,6 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts data ab
 ## File Structure
 ```markdown
 
-```text
 largest-banks-etl/
 ├── datasets/
 │   ├── exchange_rate.csv       # Currency exchange rates
