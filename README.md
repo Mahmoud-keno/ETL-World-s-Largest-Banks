@@ -26,7 +26,11 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts data ab
    ```bash
    git clone https://github.com/yourusername/largest-banks-etl.git
    cd largest-banks-etl
-## File structure
+
+## Project Structure
+```markdown
+
+```text
 largest-banks-etl/
 ├── datasets/
 │   ├── exchange_rate.csv       # Currency exchange rates
