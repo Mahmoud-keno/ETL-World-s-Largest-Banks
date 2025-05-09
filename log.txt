@@ -1,0 +1,6 @@
+2025-05-09 18:08:16 - ETL process started
+2025-05-09 18:08:17 - Data extracted
+2025-05-09 18:08:17 - Data transformed
+2025-05-09 18:08:17 - Data loaded to CSV
+2025-05-09 18:08:17 - Data loaded to SQLite database
+2025-05-09 18:08:17 - ETL process completed
