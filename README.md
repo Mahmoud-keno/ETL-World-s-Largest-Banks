@@ -26,3 +26,4 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts data ab
    ```bash
    git clone https://github.com/yourusername/largest-banks-etl.git
    cd largest-banks-etl
+![image](https://github.com/user-attachments/assets/873a3c40-1f02-45a6-a02e-fbec8b1393a8)
