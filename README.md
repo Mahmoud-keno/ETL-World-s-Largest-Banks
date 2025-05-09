@@ -27,6 +27,19 @@ This project is an ETL (Extract, Transform, Load) pipeline that extracts data ab
    git clone https://github.com/yourusername/largest-banks-etl.git
    cd largest-banks-etl
 
+
+## Data Sources
+
+- **Bank data**: [Wikipedia - List of Largest Banks](https://en.wikipedia.org/wiki/List_of_largest_banks)  
+  (Archived version used: [2023-09-08 snapshot](https://web.archive.org/web/20230908091635/https://en.wikipedia.org/wiki/List_of_largest_banks))
+
+- **Exchange rates**: Local `exchange_rate.csv` file  
+  (Sample format:)
+  ```csv
+  Currency,Rate
+  GBP,0.81
+  EUR,0.93
+
 ## File Structure
 ```markdown
 
@@ -38,3 +51,6 @@ largest-banks-etl/
 ├── main.py                     # Main ETL script
 ├── log.txt                     # Log file generated during execution
 └── README.md                   # This file
+
+
+  INR,82.95
